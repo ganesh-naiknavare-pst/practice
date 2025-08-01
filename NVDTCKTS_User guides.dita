@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="auto-generated"><title>User Guide - To Do</title><shortdesc>Status: To Do
+Issue Type: Story
+Assignee: Unassigned
+Created: 2025-07-30T11:41:36.421+0530
+Updated: 2025-07-30T11:42:06.490+0530</shortdesc><taskbody><prereq><p>This guide outlines tasks related to the user interface and functionality.  The initial status is "To Do," indicating these are tasks requiring implementation.</p><p>The user guide is currently marked as "To Do." All listed tasks require implementation.</p></prereq><steps><step><cmd>Create Filler Orderlines (Inventory Owner), Step 9:Implement the creation of filler orderlines.This should be documented for the Inventory Owner.</cmd></step><step><cmd>Create Aggregation Orderlines (Inventory Owner), Step 13:Implement the creation of aggregation orderlines.This should be documented for the Inventory Owner.</cmd></step><step><cmd>Documentation - Network Requirement:Add a note to sections that already include the text: "By default, all networks are targeted."This note should be: “Note: All networks must be enabled for at least one distribution method.”Consider adding this documentation to sections for other types of orderlines (SASO, MASO), even though these types of orderlines do not appear to exist.</cmd></step></steps><result /></taskbody></task>
